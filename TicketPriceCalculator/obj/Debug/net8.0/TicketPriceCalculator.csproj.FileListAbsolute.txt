@@ -1,0 +1,14 @@
+C:\Users\LENOVO\source\repos\dcit318-assignment1-22429501\TicketPriceCalculator\bin\Debug\net8.0\TicketPriceCalculator.exe
+C:\Users\LENOVO\source\repos\dcit318-assignment1-22429501\TicketPriceCalculator\bin\Debug\net8.0\TicketPriceCalculator.deps.json
+C:\Users\LENOVO\source\repos\dcit318-assignment1-22429501\TicketPriceCalculator\bin\Debug\net8.0\TicketPriceCalculator.runtimeconfig.json
+C:\Users\LENOVO\source\repos\dcit318-assignment1-22429501\TicketPriceCalculator\bin\Debug\net8.0\TicketPriceCalculator.dll
+C:\Users\LENOVO\source\repos\dcit318-assignment1-22429501\TicketPriceCalculator\bin\Debug\net8.0\TicketPriceCalculator.pdb
+C:\Users\LENOVO\source\repos\dcit318-assignment1-22429501\TicketPriceCalculator\obj\Debug\net8.0\TicketPriceCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\source\repos\dcit318-assignment1-22429501\TicketPriceCalculator\obj\Debug\net8.0\TicketPriceCalculator.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\dcit318-assignment1-22429501\TicketPriceCalculator\obj\Debug\net8.0\TicketPriceCalculator.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\dcit318-assignment1-22429501\TicketPriceCalculator\obj\Debug\net8.0\TicketPriceCalculator.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\dcit318-assignment1-22429501\TicketPriceCalculator\obj\Debug\net8.0\TicketPriceCalculator.dll
+C:\Users\LENOVO\source\repos\dcit318-assignment1-22429501\TicketPriceCalculator\obj\Debug\net8.0\refint\TicketPriceCalculator.dll
+C:\Users\LENOVO\source\repos\dcit318-assignment1-22429501\TicketPriceCalculator\obj\Debug\net8.0\TicketPriceCalculator.pdb
+C:\Users\LENOVO\source\repos\dcit318-assignment1-22429501\TicketPriceCalculator\obj\Debug\net8.0\TicketPriceCalculator.genruntimeconfig.cache
+C:\Users\LENOVO\source\repos\dcit318-assignment1-22429501\TicketPriceCalculator\obj\Debug\net8.0\ref\TicketPriceCalculator.dll
